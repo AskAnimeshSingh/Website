@@ -1,0 +1,23 @@
+doctype html 
+html 
+  head 
+    title Dance Website 
+    block scripts  
+    block style    
+
+  body   
+    div#container 
+      div#navbar 
+        div#header
+          ul#menu
+            div#logo   
+                img(src="/static/logo.png")
+                h2 ADA
+            li #[a(href="/") Home] 
+            li #[a(href="/about") About ] 
+            li #[a(href="/services") Services ]
+            li #[a(href="/info") Class Info]
+            li #[a(href="/contact") Contact Us]
+    block content 
+    footer#footer
+        | Copyright © 2022 AnimeshAcademy.com | All Rights Reserved

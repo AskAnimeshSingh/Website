@@ -1,0 +1,92 @@
+h1{
+    font-family: 'Bitter', serif;
+    padding-top: 3px;
+    text-align: center;
+    margin: 0px;
+    font-size: 38px;
+    
+}
+.container{ 
+    background: center/cover no-repeat url("/static/infoback.png") ;
+    height: 900px;
+}
+.flex-container {
+   
+    grid-template-columns: 1fr 1fr;
+    
+
+}
+
+.container1{
+    width: 33%;
+    
+    padding-right: 23px;
+    margin: 32px;
+    justify-content: center;
+    padding: 37px;
+    margin-left: 40px;
+    background-color: rgb(247, 230, 224);
+    font-size: 22px;
+    font-family: cursive;
+    border-radius: 10px;
+}
+.container2{
+    width: 33%;
+    margin: 33px;
+    justify-content: center;
+    padding: 37px;
+    margin-left: 40px;
+    background-color: rgb(247, 230, 224);
+    font-size: 22px;
+    font-family: cursive;
+    border-radius: 10px;
+}
+
+.container3{
+    width: 33%;
+    padding-right: 23px;
+    margin: 32px;
+    justify-content: center;
+    padding: 37px;
+    margin-left: 40px;
+    background-color: rgb(247, 230, 224);
+    font-size: 22px;
+    font-family: cursive;
+    border-radius: 10px;
+}
+.container4{
+    width: 33%;
+    margin: 33px;
+    justify-content: center;
+    padding: 37px;
+    margin-left: 40px;
+    
+    background-color: rgb(247, 230, 224);;
+    font-size: 22px;
+    font-family: cursive;
+    border-radius: 10px;
+}
+
+.container5{
+    width: 33%;
+   margin: 33px;
+    justify-content: center;
+    padding: 37px;
+    margin-left: 40px;
+    background-color: rgb(247, 230, 224);;
+    font-size: 22px;
+    font-family: cursive;
+    border-radius: 10px;
+}
+.container6{
+    width: 33%;
+    margin: 33px;
+    justify-content: center;
+    padding: 37px;
+    margin-left: 40px;
+    background-color: rgb(247, 230, 224);;
+    font-size: 22px;
+    font-family: cursive;
+    border-radius: 10px;
+}
+

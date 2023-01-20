@@ -1,0 +1,10 @@
+h1{
+    font-family: 'Bitter', serif;
+    padding-top: 3px;
+    text-align: center;
+    margin: 12px 0;
+    font-size: 38px;
+}
+div.container{
+    height: 500px;
+}

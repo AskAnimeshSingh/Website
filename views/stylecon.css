@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@100&family=Tapestry&display=swap');
+
+h2{
+    text-align: center;
+    margin: 12px 0;
+}
+.container{
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    flex-direction: column;
+}
+.container h2{
+    font-family: 'Tapestry', cursive;
+    font-size: 27px;
+
+}
+.myform{
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: content;
+    align-items: center;
+}
+.myInput{
+font-size: 16px;
+width: 40%;
+padding: 9px;
+border: 2px solid #9d8e8e;
+border-radius: 11px;
+outline: none;
+margin:8px
+}
+.btn{
+    padding: 8px 16px;
+    font-size: 23px;
+    border-radius: 12px;
+    color:rgb(231, 43, 18);
+    background: #9d8e8e;
+     cursor: pointer;
+    outline:none;
+    margin: 26px;
+}

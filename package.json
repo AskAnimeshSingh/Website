@@ -1,0 +1,40 @@
+{
+ 
+  "name": "dance",
+ 
+  "version": "1.0.0",
+ 
+  "description": "This is a popular dance website for dance academy",
+ 
+  "main": "app.js",
+ 
+  "scripts": {
+ 
+   
+  "serve": "nodemon app.js"
+ 
+  },
+ 
+  "author": "Animesh",
+ 
+  "license": "ISC",
+ 
+  "dependencies": {
+ 
+   
+  "body-parser": "^1.20.0",
+ 
+   
+  "express": "^4.18.1",
+ 
+   
+  "mongoose": "^6.6.1",
+ 
+   
+  "nodemon": "^2.0.15",
+ 
+   
+  "pug": "^3.0.2"
+ 
+  }
+}

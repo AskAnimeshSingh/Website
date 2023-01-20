@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@100&family=Oleo+Script+Swash+Caps&family=Tapestry&display=swap');
+h1{
+    font-family: 'Bitter', serif;
+    padding-top: 3px;
+    text-align: center;
+    margin: 12px 0;
+    font-size: 38px;
+}
+p{
+   
+    padding: 11px 77px 73px 24px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    color: rgb(134, 48, 214);
+    font-size: 22px;
+}
+.container{
+    height: 550px;
+}
